@@ -65,7 +65,7 @@ namespace Praktikum_Week_14
                 if (hitung == 2)
                     Prima(input);
                 else
-					NonPrima(input);
+				    NonPrima(input);
 			}
         }
     }
